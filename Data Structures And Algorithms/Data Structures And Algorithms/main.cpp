@@ -78,7 +78,7 @@ void BinarySearch(std::chrono::steady_clock::time_point& start, Array<int>& arr,
 
 	else
 	{
-		std::cout << elementToFind << " exists in the array at index" << indexOfElement << std::endl;
+		std::cout << elementToFind << " exists in the array at index " << indexOfElement << std::endl;
 	}
 }
 
@@ -98,7 +98,7 @@ void LinearSearch(std::chrono::steady_clock::time_point& start, Array<int>& arr,
 
 	else
 	{
-		std::cout << elementToFind << " exists in the array at index" << indexOfElement << std::endl;
+		std::cout << elementToFind << " exists in the array at index " << indexOfElement << std::endl;
 	}
 }
 
